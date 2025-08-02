@@ -1,59 +1,59 @@
 # Category Structure Reference
 
-This document outlines the organizational structure and guidelines for each category in the Codex.
+Here's how I organize stuff in the Codex and what each section is about.
 
 ## 🎨 Web Design & UI/UX
-**Focus**: Exceptional visual design, user experience, and frontend inspiration
-- Modern web design examples
-- UI/UX pattern libraries
-- Design systems and style guides
-- Interactive experiences
+**What goes here**: Really nice visual design, great UX, and frontend inspiration
+- Modern web design examples that made me go "wow"
+- UI/UX pattern libraries and design systems
+- Style guides that actually look good
+- Interactive experiences that work well
 - Typography and layout inspiration
 
 ## 💻 Programming Languages
-**Focus**: Language-specific resources, learning materials, and best practices
-- Official documentation with excellent design
-- Learning resources and tutorials
-- Code examples and patterns
+**What goes here**: Language-specific resources, learning stuff, and best practices
+- Official docs that are actually well-designed
+- Learning resources and tutorials that don't suck
+- Code examples and patterns worth remembering
 - Language-specific tools and libraries
-- Community resources
+- Community resources that are helpful
 
 ## 🎭 Themes & Visual Design
-**Focus**: Color schemes, visual aesthetics, and design inspiration
-- Application themes
-- Color palettes and schemes
+**What goes here**: Color schemes, visual aesthetics, and design inspiration
+- Application themes that look clean
+- Color palettes and schemes that work
 - Icon sets and visual elements
 - Design inspiration galleries
 - Aesthetic frameworks
 
 ## 🌄 Wallpapers & Aesthetics
-**Focus**: High-quality visual content and aesthetic inspiration
-- Minimalist wallpapers
+**What goes here**: High-quality visual content and aesthetic inspiration
+- Minimalist wallpapers that aren't boring
 - Abstract and artistic designs
 - Photography collections
 - Generative art
 - Aesthetic resources
 
 ## 🐧 Arch Linux Tools
-**Focus**: Essential utilities, configurations, and workflow enhancements
-- System utilities and tools
-- Configuration management
+**What goes here**: Essential utilities, configs, and workflow improvements
+- System utilities and tools that make life easier
+- Configuration management stuff
 - Productivity applications
 - Customization resources
 - Performance optimization tools
 
 ## ⌨️ Neovim Tips & Tricks
-**Focus**: Productivity enhancements and configuration improvements
-- Plugin recommendations
-- Configuration patterns
+**What goes here**: Productivity boosts and configuration improvements
+- Plugin recommendations that are actually useful
+- Configuration patterns that work
 - Workflow optimizations
 - Learning resources
-- Community configurations
+- Community configurations worth trying
 
 ## Adding New Categories
 
-When considering new categories:
-1. Ensure sufficient distinct resources (minimum 3-5 quality entries)
-2. Clear scope and focus area
-3. Doesn't overlap significantly with existing categories
-4. Aligns with personal interests and expertise areas
+If I'm thinking about new categories, I consider:
+1. Do I have enough good stuff for it? (at least 3-5 quality entries)
+2. Is the scope clear and focused?
+3. Does it overlap too much with existing categories?
+4. Does it fit with my interests and what I know about?

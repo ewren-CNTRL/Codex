@@ -1,28 +1,28 @@
 # Resource Entry Template
 
-Use this template when adding new resources to maintain consistency across the collection.
+Use this template when adding new stuff to keep everything consistent.
 
 ## Basic Format
 
 ```markdown
 #### [Resource Name](URL)
-**⭐ Highlighted Entry** *(if particularly noteworthy)*
+**⭐ This one's great** *(if it's particularly awesome)*
 
-Brief description explaining what makes this resource special and why it caught your attention.
+Brief description explaining what makes this resource cool and why it caught your attention.
 
-- **What makes it special**: Key distinguishing features
-- **Key takeaways**: Main insights or lessons
-- **Notable elements**: Specific aspects worth highlighting
-- **Category tags**: #tag1 #tag2 #tag3
+- **Why it's awesome**: Key things that make it stand out
+- **What I learned**: Main insights or takeaways
+- **Cool features**: Specific aspects worth highlighting
+- **Tags**: #tag1 #tag2 #tag3
 ```
 
 ## Extended Format (for detailed entries)
 
 ```markdown
 #### [Resource Name](URL)
-**⭐ Highlighted Entry**
+**⭐ This one's great**
 
-Detailed description with context about discovery, relevance, and impact.
+Detailed description with context about how I found it, why it's relevant, and what impact it had.
 
 **Key Features:**
 - Feature 1: Description
@@ -33,7 +33,7 @@ Detailed description with context about discovery, relevance, and impact.
 - Reason 1
 - Reason 2
 
-**Related resources:**
+**Related stuff:**
 - [Related Resource 1](URL)
 - [Related Resource 2](URL)
 
